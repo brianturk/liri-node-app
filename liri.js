@@ -143,6 +143,7 @@ function getMovies(name) {
                 })
 
                 finalMessage += 'Country Where Produced: ' + item.Country + '\r\n';
+                finalMessage += 'Language: ' + item.Language + '\r\n';
                 finalMessage += 'Plot: ' + item.Plot + '\r\n';
                 finalMessage += 'Actors: ' + item.Actors + '\r\n'
                 finalMessage += line;

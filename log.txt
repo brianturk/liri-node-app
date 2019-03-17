@@ -1,17 +1,17 @@
 ---------------------------
-03/17/19 03:42:32 PM==>  
+03/17/19 04:39:30 PM==>  
 ---------------------------
 Invalid command.  Valid commands are 'concert-this <artist/band name here>', 'spotify-this-song <song name here>', 'movie-this <movie name here>', and 'do-what-it-says'
 ---------------------------
-03/17/19 03:42:40 PM==> hello 
+03/17/19 04:39:51 PM==> hello 
 ---------------------------
 Invalid command.  Valid commands are 'concert-this <artist/band name here>', 'spotify-this-song <song name here>', 'movie-this <movie name here>', and 'do-what-it-says'
 ---------------------------
-03/17/19 03:42:49 PM==> concert-this 
+03/17/19 04:39:58 PM==> concert-this 
 ---------------------------
 No artist specified.  Proper syntax is "concert-this <artist/band name here>".
 ---------------------------
-03/17/19 03:43:05 PM==> concert-this lady gaga
+03/17/19 04:40:08 PM==> concert-this lady gaga
 ---------------------------
 Concert #1
 ---------------------------
@@ -211,7 +211,7 @@ Date: 11/09/2019
 
 
 ---------------------------
-03/17/19 03:43:31 PM==> spotify-this-song 
+03/17/19 04:40:39 PM==> spotify-this-song 
 ---------------------------
 Song #1
 ---------------------------
@@ -335,7 +335,7 @@ Album Name: A Salute To Ace Of Base
 
 
 ---------------------------
-03/17/19 03:43:53 PM==> spotify-this-song sure shot
+03/17/19 04:40:59 PM==> spotify-this-song sure shot
 ---------------------------
 Song #1
 ---------------------------
@@ -501,7 +501,7 @@ Album Name: Dreaming a Dream: The Best of Crown Heights Affair
 
 
 ---------------------------
-03/17/19 03:44:20 PM==> movie-this 
+03/17/19 04:41:36 PM==> movie-this 
 ---------------------------
 Movie Information
 ---------------------------
@@ -510,12 +510,13 @@ Year: 2009
 IMDB Rating: 7.8
 Rotten Tomatoes Rating: 67%
 Country Where Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 ---------------------------
 
 ---------------------------
-03/17/19 03:44:34 PM==> movie-this the godfather
+03/17/19 04:41:57 PM==> movie-this the godfather
 ---------------------------
 Movie Information
 ---------------------------
@@ -523,12 +524,17 @@ Title: The Godfather
 Year: 1972
 IMDB Rating: 9.2
 Country Where Produced: USA
+Language: English, Italian, Latin
 Plot: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
 Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
 ---------------------------
 
 ---------------------------
-03/17/19 03:45:08 PM==> do-what-it-says 
+03/17/19 04:42:40 PM==> node liri.js do-what-it-says
+---------------------------
+Invalid command.  Valid commands are 'concert-this <artist/band name here>', 'spotify-this-song <song name here>', 'movie-this <movie name here>', and 'do-what-it-says'
+---------------------------
+03/17/19 04:43:06 PM==> do-what-it-says 
 ---------------------------
 
 Command ==> movie-this
@@ -541,6 +547,7 @@ Year: 1980
 IMDB Rating: 7.3
 Rotten Tomatoes Rating: 74%
 Country Where Produced: USA
+Language: English
 Plot: An exclusive golf course has to deal with a brash new member and a destructive dancing gopher.
 Actors: Chevy Chase, Rodney Dangerfield, Ted Knight, Michael O'Keefe
 ---------------------------
