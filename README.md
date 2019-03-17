@@ -1,6 +1,6 @@
 # liri-node-app
-LIRI Bot
-Author: Brian Turk
+LIRI Bot  
+Author: Brian Turk  
 Date: 3/17/19
 
 ## [Video Demonstration](https://photos.app.goo.gl/9FKkALHv9QYSCsRf6)
