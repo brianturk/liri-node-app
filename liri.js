@@ -2,9 +2,12 @@ var fs = require('fs');
 var moment = require('moment');
 var line = '---------------------------\r\n'
 
-var command = process.argv[2];
-var name = "";
+var command = "";
+if (process.argv.length > 2) {
+    command = process.argv[2];
+};
 
+var name = "";
 //Handle multi-word names
 for (var x = 3; x < process.argv.length; x++) {
     name = name + ' ' + process.argv[x];
