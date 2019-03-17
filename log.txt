@@ -1,0 +1,543 @@
+---------------------------
+03/17/19 01:38:39 PM==> undefined 
+---------------------------
+Invalid command.  Valid commands are 'concert-this <artist/band name here>', 'spotify-this-song <song name here>', 'movie-this <movie name here>', and 'do-what-it-says'
+---------------------------
+03/17/19 01:38:50 PM==> concert-this 
+---------------------------
+No artist specified.  Proper syntax is "concert-this <artist/band name here>".
+---------------------------
+03/17/19 01:38:58 PM==> concert-this lady gaga
+---------------------------
+Concert #1
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 05/30/2019
+---------------------------
+
+Concert #2
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 06/01/2019
+---------------------------
+
+Concert #3
+---------------------------
+Venue Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)
+Venue Location: Las Vegas, United States
+Date: 06/02/2019
+---------------------------
+
+Concert #4
+---------------------------
+Venue Name: LADY GAGA JAZZ & PIANO
+Venue Location: Las Vegas, United States
+Date: 06/02/2019
+---------------------------
+
+Concert #5
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 06/06/2019
+---------------------------
+
+Concert #6
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 06/08/2019
+---------------------------
+
+Concert #7
+---------------------------
+Venue Name: LADY GAGA JAZZ & PIANO
+Venue Location: Las Vegas, United States
+Date: 06/09/2019
+---------------------------
+
+Concert #8
+---------------------------
+Venue Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)
+Venue Location: Las Vegas, United States
+Date: 06/09/2019
+---------------------------
+
+Concert #9
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 06/12/2019
+---------------------------
+
+Concert #10
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 06/14/2019
+---------------------------
+
+Concert #11
+---------------------------
+Venue Name: LADY GAGA JAZZ & PIANO
+Venue Location: Las Vegas, United States
+Date: 06/15/2019
+---------------------------
+
+Concert #12
+---------------------------
+Venue Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)
+Venue Location: Las Vegas, United States
+Date: 06/15/2019
+---------------------------
+
+Concert #13
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 10/17/2019
+---------------------------
+
+Concert #14
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 10/19/2019
+---------------------------
+
+Concert #15
+---------------------------
+Venue Name: LADY GAGA JAZZ & PIANO
+Venue Location: Las Vegas, United States
+Date: 10/20/2019
+---------------------------
+
+Concert #16
+---------------------------
+Venue Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)
+Venue Location: Las Vegas, United States
+Date: 10/20/2019
+---------------------------
+
+Concert #17
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 10/23/2019
+---------------------------
+
+Concert #18
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 10/25/2019
+---------------------------
+
+Concert #19
+---------------------------
+Venue Name: LADY GAGA JAZZ & PIANO
+Venue Location: Las Vegas, United States
+Date: 10/26/2019
+---------------------------
+
+Concert #20
+---------------------------
+Venue Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)
+Venue Location: Las Vegas, United States
+Date: 10/26/2019
+---------------------------
+
+Concert #21
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 10/31/2019
+---------------------------
+
+Concert #22
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 11/02/2019
+---------------------------
+
+Concert #23
+---------------------------
+Venue Name: LADY GAGA JAZZ & PIANO
+Venue Location: Las Vegas, United States
+Date: 11/03/2019
+---------------------------
+
+Concert #24
+---------------------------
+Venue Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)
+Venue Location: Las Vegas, United States
+Date: 11/03/2019
+---------------------------
+
+Concert #25
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 11/06/2019
+---------------------------
+
+Concert #26
+---------------------------
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas, United States
+Date: 11/08/2019
+---------------------------
+
+Concert #27
+---------------------------
+Venue Name: LADY GAGA JAZZ & PIANO
+Venue Location: Las Vegas, United States
+Date: 11/09/2019
+---------------------------
+
+Concert #28
+---------------------------
+Venue Name: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)
+Venue Location: Las Vegas, United States
+Date: 11/09/2019
+---------------------------
+
+
+---------------------------
+03/17/19 01:39:22 PM==> spotify-this-song 
+---------------------------
+Song #1
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (US Album) [Remastered]
+---------------------------
+
+Song #2
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Greatest Hits
+---------------------------
+
+Song #3
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Happy Nation (U.S. Version) [Remastered]
+---------------------------
+
+Song #4
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #5
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign - Long Version
+Preview URL: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #6
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign - Ultimix
+Preview URL: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #7
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #8
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign - The Remix
+Preview URL: https://p.scdn.co/mp3-preview/919c1e7e785733af13db8054540742ac6aede514?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Classic Remixes
+---------------------------
+
+Song #9
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign - Long Version
+Preview URL: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #10
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign - The Remix
+Preview URL: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #11
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign - The Remix
+Preview URL: https://p.scdn.co/mp3-preview/082619adfb4e6757ef8fc9de5125a925b209544f?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #12
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign - Dub Version
+Preview URL: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #13
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign - Ultimix
+Preview URL: https://p.scdn.co/mp3-preview/09e61a41305b12e2832c9cbea2010cbaaa788831?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #14
+---------------------------
+Artist: Ace of Base
+Song Name: The Sign - Dub Version
+Preview URL: https://p.scdn.co/mp3-preview/63baba8b57fda215fe785e46f71e97a30b5e37e8?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Sign (The Remixes)
+---------------------------
+
+Song #15
+---------------------------
+Artist: Ace Of Base Tribute
+Song Name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4f5c0e369e693cbba5b36ada75078dde4d32d9b9?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: A Salute To Ace Of Base
+---------------------------
+
+
+---------------------------
+03/17/19 01:39:42 PM==> spotify-this-song sure shot
+---------------------------
+Song #1
+---------------------------
+Artist: Beastie Boys
+Song Name: Sure Shot
+Spotify URL: https://open.spotify.com/track/21REQ1bCUWphT2QK3bLWYQ
+Album Name: Ill Communication
+---------------------------
+
+Song #2
+---------------------------
+Artist: Beastie Boys
+Song Name: Sure Shot - Remastered 2009
+Spotify URL: https://open.spotify.com/track/4P3gDYOHTPQtfBAF80iwt8
+Album Name: Ill Communication (Deluxe Version/Remastered)
+---------------------------
+
+Song #3
+---------------------------
+Artist: Intervals
+Song Name: Sure Shot
+Preview URL: https://p.scdn.co/mp3-preview/ca88fabc967fb7b861b163ce7303ee52815ae735?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Shape of Colour
+---------------------------
+
+Song #4
+---------------------------
+Artist: Beastie Boys
+Song Name: Sure Shot - 2005 Remaster
+Spotify URL: https://open.spotify.com/track/77vcYxybStDEHeeWO1SiOm
+Album Name: Solid Gold Hits
+---------------------------
+
+Song #5
+---------------------------
+Artist: Beastie Boys
+Song Name: Sure Shot - European B-Boy Mix/Remastered 2009
+Spotify URL: https://open.spotify.com/track/2qTuEV2bEGAuuXqbTX1eSV
+Album Name: Ill Communication (Deluxe Version/Remastered)
+---------------------------
+
+Song #6
+---------------------------
+Artist: Bathe
+Song Name: Sure Shot
+Preview URL: https://p.scdn.co/mp3-preview/781e0fdd4295553c0c645ddd49453b9bdf162d5c?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Sure Shot
+---------------------------
+
+Song #7
+---------------------------
+Artist: Beastie Boys
+Song Name: Sure Shot
+Spotify URL: https://open.spotify.com/track/1WrcUjLuMg6j1ap3vOHt6C
+Album Name: Ill Communication
+---------------------------
+
+Song #8
+---------------------------
+Artist: Rockabye Baby!
+Song Name: Sure Shot
+Preview URL: https://p.scdn.co/mp3-preview/5d49625edd85338f0ae64f35ed304b3eec661770?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Lullaby Renditions of Beastie Boys
+---------------------------
+
+Song #9
+---------------------------
+Artist: Beastie Boys
+Song Name: Sure Shot - Edited / 2005 Remaster
+Spotify URL: https://open.spotify.com/track/0ro0DyrXIGJmWDK7QVPspF
+Album Name: Solid Gold Hits
+---------------------------
+
+Song #10
+---------------------------
+Artist: Beastie Boys
+Song Name: Sure Shot - 1999 - Remaster
+Spotify URL: https://open.spotify.com/track/2SOiMOSTTgwgcOFNgLVTV4
+Album Name: Anthology: The Sounds Of Science
+---------------------------
+
+Song #11
+---------------------------
+Artist: Polvo
+Song Name: Sure Shot
+Preview URL: https://p.scdn.co/mp3-preview/a0c2a6779242e8af209a280c7b54608bce97bbab?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Today's Active Lifestyles
+---------------------------
+
+Song #12
+---------------------------
+Artist: The Slum Brothers
+Song Name: Sure Shot
+Preview URL: https://p.scdn.co/mp3-preview/54943ef56340c886015f6ef10c57b22b08c5020f?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Jus Regular Niggers: Diaries of a Porch Monkey
+---------------------------
+
+Song #13
+---------------------------
+Artist #1: Ghostface Killah
+Artist #2: Adrian Younge
+Song Name: The Sure Shot, Pts. 1 & 2
+Preview URL: https://p.scdn.co/mp3-preview/9c6ff5d392aa382386382612916ac083339e63e5?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Adrian Younge Presents: 12 Reasons to Die I
+---------------------------
+
+Song #14
+---------------------------
+Artist #1: Ghostface Killah
+Artist #2: Apollo Brown
+Song Name: The Sure Shot (Pt. 1 & 2)
+Preview URL: https://p.scdn.co/mp3-preview/9676a782e1ca471dbc09377d04abe2c6a318eafa?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: The Brown Tape
+---------------------------
+
+Song #15
+---------------------------
+Artist: Beastie Boys
+Song Name: Sure Shot - European B-Boy Mix/Instrumental/Remastered 2009
+Spotify URL: https://open.spotify.com/track/2ynVdvSzl4IOYhEdt1YVr2
+Album Name: Ill Communication (Deluxe Version/Remastered)
+---------------------------
+
+Song #16
+---------------------------
+Artist: Karl Denson
+Song Name: Sure Shot
+Preview URL: https://p.scdn.co/mp3-preview/222f853a66e93256edb35824888904d63dd04b42?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: New Ammo
+---------------------------
+
+Song #17
+---------------------------
+Artist: The O.C. Supertones
+Song Name: Sure Shot
+Spotify URL: https://open.spotify.com/track/1niiCndHNzrg5bqO7OtPG9
+Album Name: Chase The Sun
+---------------------------
+
+Song #18
+---------------------------
+Artist: Run Kid Run
+Song Name: Sure Shot
+Spotify URL: https://open.spotify.com/track/0RpzRP0JjIH2RMEKWCUwQL
+Album Name: Love At The Core
+---------------------------
+
+Song #19
+---------------------------
+Artist: Research
+Song Name: The Sure Shot
+Preview URL: https://p.scdn.co/mp3-preview/79bdfdc2c81020428ee769098219e2f8c67fe4e5?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Iconoclast
+---------------------------
+
+Song #20
+---------------------------
+Artist: Crown Heights Affair
+Song Name: Sure Shot
+Preview URL: https://p.scdn.co/mp3-preview/1df0c8c1fd88441198d26008f2028e6a4ad61890?cid=e943e767d12042e4b831c9e4c7cfac39
+Album Name: Dreaming a Dream: The Best of Crown Heights Affair
+---------------------------
+
+
+---------------------------
+03/17/19 01:40:14 PM==> movie-this 
+---------------------------
+Movie Information
+---------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country Where Produced: Belgium, Germany, Canada, France, USA, UK
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------------------------
+
+---------------------------
+03/17/19 01:40:25 PM==> movie-this the godfather
+---------------------------
+Movie Information
+---------------------------
+Title: The Godfather
+Year: 1972
+IMDB Rating: 9.2
+Country Where Produced: USA
+Plot: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+Actors: Marlon Brando, Al Pacino, James Caan, Richard S. Castellano
+---------------------------
+
+---------------------------
+03/17/19 01:41:02 PM==> do-what-it-says 
+---------------------------
+
+Command ==> movie-this
+Parameter ==> caddyshack
+
+Movie Information
+---------------------------
+Title: Caddyshack
+Year: 1980
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 74%
+Country Where Produced: USA
+Plot: An exclusive golf course has to deal with a brash new member and a destructive dancing gopher.
+Actors: Chevy Chase, Rodney Dangerfield, Ted Knight, Michael O'Keefe
+---------------------------
+
